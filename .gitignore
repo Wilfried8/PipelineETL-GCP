@@ -1,0 +1,4 @@
+# .tfstate and lock files
+*.tfstate
+*.tfstate.*
+*.lock.*
